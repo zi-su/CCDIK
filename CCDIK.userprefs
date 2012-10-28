@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ParticleSolver.cs">
+    <Files>
+      <File FileName="../../../Downloads/CGGems2012/8_インバースキネマティクス/IkSample/IkSolver/IkSolver/IkSolver.cs" Line="174" Column="55" />
+      <File FileName="Assets/Joint.cs" Line="11" Column="4" />
+      <File FileName="Assets/CCDSolver.cs" Line="31" Column="35" />
+      <File FileName="Assets/ParticleSolver.cs" Line="100" Column="74" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
